@@ -1,5 +1,5 @@
 /*
-ID: Alfajar [allfaja1]
+ID: #######
 TASK: test
 LANG: C++                 
 */
